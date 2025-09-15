@@ -1,8 +1,9 @@
 # EEbot Navigation Maze
 # Microcontroller Navigation Project – HC12 Microcontroller
-Toronto Metropolitan University
-Course: COE538 – Microprocessor Systems
-Group Project
+**Toronto Metropolitan University**  
+**Course:** COE528 – Microprocessor Systems
+**Project Duration:** 3 Weeks  
+**Group Project**
 
 This project programs an Eebot robot with a navigation system to move through a maze, performing functions such as moving forwards, backwards, reverse, and turning. 
 
