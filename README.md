@@ -1,4 +1,3 @@
-# EEbot Navigation Maze
 # Microcontroller Navigation Project – HC12 Microcontroller
 **Toronto Metropolitan University**  
 **Course:** COE528 – Microprocessor Systems
