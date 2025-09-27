@@ -1,6 +1,6 @@
 # Microcontroller Navigation Project – HC12 Microcontroller
 **Toronto Metropolitan University**  
-**Course:** COE528 – Microprocessor Systems
+**Course:** COE538 – Microprocessor Systems
 **Project Duration:** 3 Weeks  
 **Group Project**
 
