@@ -1,4 +1,4 @@
-# Microcontroller Navigation Project – HC12 Microcontroller
+# Microcontroller Navigation Project – HCS12 Microcontroller
 **Toronto Metropolitan University**  
 **Course:** COE538 – Microprocessor Systems
 **Project Duration:** 3 Weeks  
@@ -22,7 +22,7 @@ This project programs an Eebot robot with a navigation system to move through a 
 
 ## Tools
 
-- CodeWarrior for HC12 microcontroller board and Eebot
+- CodeWarrior for HCS12 microcontroller board and Eebot
 
 ## Run
 
